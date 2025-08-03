@@ -114,7 +114,7 @@ EMS/
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/employee-management-system.git
+   git clone https://github.com/Affan166114/Employee-Management-System.git
    cd employee-management-system
    ```
 
@@ -244,24 +244,6 @@ Currently, the application uses localStorage for data persistence. For productio
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👨‍💻 Author
 
-**Your Name**
-
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-
-## 🙏 Acknowledgments
-
-- React team for the amazing framework
-- Vite team for the fast build tool
-- Tailwind CSS for the utility-first CSS framework
-- All contributors and supporters
-
----
-
-⭐ **Star this repository if you find it helpful!**
