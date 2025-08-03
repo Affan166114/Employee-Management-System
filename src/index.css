@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+/* 
+  For Tailwind CSS v4 configuration, you can add:
+  @config {
+    theme: {
+      extend: {
+        colors: {
+          custom: '#123456'
+        }
+      }
+    }
+  }
+*/
+
+
+body{
+  background-color: rgb(8, 8, 8);
+
+}
+
+#tasklist::-webkit-scrollbar{
+  display: none;
+
+}
